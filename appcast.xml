@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>monobyte</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sun, 12 Apr 2026 17:53:00 -0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/user/monobyte/releases/download/latest/monobyte.dmg" length="10419262" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
