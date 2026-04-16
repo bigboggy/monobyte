@@ -1,7 +1,8 @@
 <p align="center">
+  <img width="200" height="200" alt="Monobyte Logo Black" src="https://github.com/user-attachments/assets/1b47d336-26b2-40b0-9793-ce063da907f4" />
+
   <h1 align="center">monobyte</h1>
-  <p align="center"><strong>Enter flowstate with your Agents</strong></p>
-  <p align="center">Parallel persistent agents, terminals & browsers.<br>Native, calm, and yours.</p>
+  <p align="center"><strong>Become cracked with parallel persistent agents, terminals & browsers.</strong></p>
   <p align="center">
     <a href="https://github.com/bigboggy/monobyte/releases/tag/0.0.2">
       <img src="https://img.shields.io/badge/Download_for_Mac-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac">
@@ -22,26 +23,8 @@
 | Cursor 3 | 2,000+ MB |
 | Codex | 600+ MB |
 
-> Measured at idle with one project open. Native Swift app vs Electron-based editors.
+<img width="1446" height="921" alt="Screenshot 2026-04-16 at 1 45 35 AM" src="https://github.com/user-attachments/assets/4812acc6-9378-4ba1-8210-cf0412288f86" />
 
-## More than a terminal
-
-Everything you need for mature projects.
-
-### Get notified
-On permission requests or when agents finish a task. Works with **Claude Code**, **Codex**, and **OpenCode**.
-
-### Spawn browsers
-And request changes in real time — right alongside your terminal.
-
-### Enter flowstate
-Enjoy lofi radio while vibing with your agents.
-
-### File editor
-No need to leave the terminal to edit files.
-
-### Version history
-Review & manage version history without switching to an IDE.
 
 ## How monobyte compares
 
@@ -50,11 +33,10 @@ Review & manage version history without switching to an IDE.
 | Infinite horizontal canvas | ✓ | — | — | — |
 | Native macOS app (Swift) | ✓ | ✓ | — | — |
 | Built-in browser spawning | ✓ | — | ✓ | — |
-| Agent notifications | ✓ | — | ~ | — |
+| Custom Agent notifications | ✓ | — | — | — |
 | Built-in file editor | ✓ | — | ✓ | — |
 | Git version history | ✓ | — | ✓ | ✓ |
 | Lightweight (~130 MB RAM) | ✓ | ✓ | — | — |
-| No forced LLM subscription | ✓ | ✓ | — | ✓ |
 | App launcher with script detection | ✓ | — | — | — |
 | Built-in task management | ✓ | — | — | — |
 | Dark & light mode | ✓ | — | — | — |
