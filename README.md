@@ -17,11 +17,12 @@
 
 ## Lightweight by design — more RAM for your agents
 
-| App | Idle RAM |
+| App | RAM usage |
 |---|---|
-| **monobyte** | **~130 MB** |
+| **monobyte** | **~130+ MB** |
 | Cursor 3 | 2,000+ MB |
 | Codex | 600+ MB |
+| Claude Desktop | ∞+ MB |
 
 <img width="1446" height="921" alt="Screenshot 2026-04-16 at 1 45 35 AM" src="https://github.com/user-attachments/assets/4812acc6-9378-4ba1-8210-cf0412288f86" />
 
